@@ -20,5 +20,5 @@ const PRODUCTS = [
   { id:10, name:"Jaqueta Coach Preta",        price:229.90, oldPrice:269.90, image:"", affiliateUrl:"", category:"Moletons",  description:"Jaqueta leve com fechamento por botões.",               badge:"Oferta", featured:false, demo:true },
   { id:11, name:"Boné Aba Curva Preto",       price:49.90,  oldPrice:null,  image:"", affiliateUrl:"", category:"Acessórios",description:"Boné ajustável de aba curva.",                          badge:"",       featured:true,  demo:true },
   { id:12, name:"Corrente Aço Inox",          price:39.90,  oldPrice:null,  image:"", affiliateUrl:"", category:"Acessórios",description:"Corrente em elos grossos, acabamento prateado.",        badge:"Novo",   featured:false, demo:true },
-  { id:13, name:"Calça Jeans Baggy Wide Leg", price:59.00, oldPrice:null, image:"IMG_2546.jpeg", affiliateUrl:"https://s.shopee.com.br/6q1SIpD4xg", category:"Calças", description:"Jeans baggy cinza lavado, perna larga.", badge:"", featured:false }
+  { id:13, name:"Calça Jeans Baggy Wide Leg", price:59.00, oldPrice:null, image:"IMG_2546.jpeg", affiliateUrl:"https://s.shopee.com.br/6q1SIpD4xg", category:"Calças", description:"Jeans baggy cinza lavado, perna larga.", badge:"Destaque", featured:false }
 ];
