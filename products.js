@@ -8,7 +8,7 @@
    Os itens abaixo são EXEMPLOS (demo:true). Remova demo:true nos reais.
    ============================================================ */
 const PRODUCTS = [
-  { id:1,  name:"Camiseta Oversized Casuasl Básica",   price:49.90,  oldPrice:null,  image:"overblack.webp", affiliateUrl:"https://s.shopee.com.br/3LRaUDPI1E", category:"Camisetas", description:"Camiseta oversized com caimento solto e estilo urbano.", badge:"Novo",   featured:true,  demo:true },
+  { id:1,  name:"Camiseta Oversized Casual Básica",   price:49.90,  oldPrice:null,  image:"overblack.webp", affiliateUrl:"https://s.shopee.com.br/3LRaUDPI1E", category:"Camisetas", description:"Camiseta oversized com caimento solto e estilo urbano.", badge:"Novo",   featured:true,  demo:true },
   { id:2,  name:"Camiseta Boxy Oversized",    price:34.99,  oldPrice:null,  image:"boxyoff.webp", affiliateUrl:"https://s.shopee.com.br/3B8AIC1BvH", category:"Camisetas", description:"Modelagem boxy oversized, visual limpo.",              badge:"Destaque",       featured:false, demo:true },
   { id:3,  name:"Camiseta Gráfica Cinza",     price:79.90,  oldPrice:99.90,  image:"", affiliateUrl:"", category:"Camisetas", description:"Estampa grande nas costas, corte oversized.",           badge:"Oferta", featured:false, demo:true },
   { id:4,  name:"Calça Cargo Unissex",    price:74.90, oldPrice:null,  image:"cargob.webp", affiliateUrl:"https://s.shopee.com.br/AKbKqQzq9A", category:"Calças",    description:"Calça cargo com bolsos laterais e perna ampla.",        badge:"Destaque", featured:true, demo:true },
