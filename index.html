@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Walk&Wear — Your style. Your way. | Moda urbana</title>
+<meta name="description" content="Walk&Wear: seleção de streetwear — camisetas oversized, calças cargo e baggy, tênis, moletons e acessórios das melhores lojas parceiras.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#loja">Ir para os produtos</a>
+<header class="hdr" id="inicio">
+  <div class="wrap hdr-in">
+    <button class="icon-btn menu-btn" id="menuBtn" aria-label="Abrir menu" aria-expanded="false" aria-controls="nav">☰</button>
+    <a class="logo" href="#inicio">WALK<span>&amp;</span>WEAR</a>
+    <nav id="nav" class="nav" aria-label="Principal">
+      <a href="#inicio" data-go="all">Início</a>
+      <a href="#loja" data-go="roupas">Roupas</a>
+      <a href="#loja" data-go="calcados">Calçados</a>
+      <a href="#loja" data-go="acessorios">Acessórios</a>
+      <a href="#loja" data-go="ofertas">Ofertas</a>
+    </nav>
+    <button class="icon-btn" id="searchBtn" aria-label="Pesquisar" aria-expanded="false" aria-controls="searchBar">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+    </button>
+  </div>
+  <div class="searchbar" id="searchBar" hidden>
+    <div class="wrap"><input id="q" type="search" placeholder="Pesquisar por nome…" aria-label="Pesquisar produtos"></div>
+  </div>
+  <p class="notice">A Walk&amp;Wear pode receber comissão por compras feitas via links de afiliados, sem custo adicional para você.</p>
+</header>
+
+<main>
+<section class="hero">
+  <div class="wrap hero-in">
+    <p class="eyebrow">Seleção streetwear</p>
+    <h1>Your style.<br>Your way.</h1>
+    <p class="lead">Oversized, baggy, tênis e acessórios das lojas parceiras — curadoria urbana, sem complicação.</p>
+    <a class="btn" href="#loja" data-go="all">Explorar coleção</a>
+  </div>
+</section>
+
+<section class="wrap sec" aria-labelledby="h-cat">
+  <h2 id="h-cat">Categorias</h2>
+  <div class="cats" id="cats"></div>
+</section>
+
+<section class="wrap sec" aria-labelledby="h-pop"><h2 id="h-pop">Mais populares</h2><div class="grid" id="popular"></div></section>
+<section class="wrap sec" aria-labelledby="h-new"><h2 id="h-new">Novidades</h2><div class="grid" id="news"></div></section>
+<section class="wrap sec" aria-labelledby="h-off"><h2 id="h-off">Ofertas</h2><div class="grid" id="offers"></div></section>
+
+<section class="wrap sec" id="loja" aria-labelledby="h-loja">
+  <h2 id="h-loja">Loja</h2>
+  <div class="tools">
+    <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+    <label class="sort">Ordenar
+      <select id="sort"><option value="new">Novidades</option><option value="asc">Menor preço</option><option value="desc">Maior preço</option></select>
+    </label>
+  </div>
+  <p class="count" id="count" aria-live="polite"></p>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>Nenhum produto encontrado. Tente outra busca ou categoria.</p>
+</section>
+
+<section class="wrap sec info">
+  <article id="afiliados"><h3>Links de afiliados</h3><p>A Walk&amp;Wear não vende produtos. Ao clicar em “Ver produto” você é levado ao site da loja parceira, onde ocorre a compra. Podemos receber comissão, sem custo adicional para você. Preços, disponibilidade e promoções são definidos pela loja parceira e podem mudar; confirme sempre no site de destino.</p></article>
+  <article id="privacidade"><h3>Privacidade</h3><p>Este site não possui cadastro nem checkout e não coleta dados pessoais por conta própria. As lojas parceiras têm suas próprias políticas de privacidade. <em>Substitua este texto pela sua política completa antes de publicar.</em></p></article>
+  <article id="contato"><h3>Contato</h3><p><a href="mailto:contato@seudominio.com">contato@seudominio.com</a> <em>(troque pelo seu e-mail)</em></p></article>
+</section>
+</main>
+
+<footer class="ftr">
+  <div class="wrap ftr-in">
+    <a class="logo" href="#inicio">WALK<span>&amp;</span>WEAR</a>
+    <nav aria-label="Rodapé">
+      <a href="#" rel="noopener">Instagram</a><a href="#" rel="noopener">TikTok</a><a href="#" rel="noopener">Pinterest</a>
+      <a href="#contato">Contato</a><a href="#privacidade">Privacidade</a><a href="#afiliados">Aviso de afiliados</a>
+    </nav>
+    <small>© Walk&amp;Wear. Pode receber comissão por compras via links de afiliados.</small>
+  </div>
+</footer>
+<script src="products.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
