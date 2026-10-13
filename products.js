@@ -8,7 +8,7 @@
    Os itens abaixo são EXEMPLOS (demo:true). Remova demo:true nos reais.
    ============================================================ */
 const PRODUCTS = [
-  { id:1,  name:"Camiseta Oversized Preta",   price:59.90,  oldPrice:null,  image:"", affiliateUrl:"", category:"Camisetas", description:"Camiseta oversized com caimento solto e estilo urbano.", badge:"Novo",   featured:true,  demo:true },
+  { id:1,  name:"Camiseta Oversized Casuasl Básica",   price:49.90,  oldPrice:null,  image:"", affiliateUrl:"https://s.shopee.com.br/3LRaUDPI1E", category:"Camisetas", description:"Camiseta oversized com caimento solto e estilo urbano.", badge:"Novo",   featured:true,  demo:true },
   { id:2,  name:"Camiseta Boxy Off-White",    price:69.90,  oldPrice:null,  image:"", affiliateUrl:"", category:"Camisetas", description:"Modelagem boxy em algodão, visual limpo.",              badge:"",       featured:false, demo:true },
   { id:3,  name:"Camiseta Gráfica Cinza",     price:79.90,  oldPrice:99.90,  image:"", affiliateUrl:"", category:"Camisetas", description:"Estampa grande nas costas, corte oversized.",           badge:"Oferta", featured:false, demo:true },
   { id:4,  name:"Calça Cargo Verde-Oliva",    price:149.90, oldPrice:null,  image:"", affiliateUrl:"", category:"Calças",    description:"Calça cargo com bolsos laterais e perna ampla.",        badge:"Destaque", featured:true, demo:true },
