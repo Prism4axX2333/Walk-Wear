@@ -48,20 +48,20 @@ PRODUCTS.push(
   // procure: "camisa social slim branca masculina"
   { id:110, name:"Camisa Social Slim", price:48.00, oldPrice:null, image:"camisa social slim.webp", affiliateUrl:"https://s.shopee.com.br/8fTGJMuDur", style:"Social", category:"Camisas", description:"Camisa social de manga longa.", badge:"", featured:false, demo:true },
   // procure: "camisa social azul claro masculina"
-  { id:111, name:"Camisa Social", price:43.90, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/1BNFNkaXYz", style:"Social", category:"Camisas", description:"Camisa social de manga longa.", badge:"", featured:false, demo:true },
+  { id:111, name:"Camisa Social", price:43.90, oldPrice:null, image:"outra social.webp", affiliateUrl:"https://s.shopee.com.br/1BNFNkaXYz", style:"Social", category:"Camisas", description:"Camisa social de manga longa.", badge:"", featured:false, demo:true },
   // procure: "calça social alfaiataria masculina preta"
-  { id:112, name:"Calça Alfaiataria Preta", price:78.89, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/5AtO9D9cJi", style:"Social", category:"Alfaiataria", description:"Calça social de corte reto.", badge:"", featured:false, demo:true },
+  { id:112, name:"Calça Alfaiataria Preta", price:78.89, oldPrice:null, image:"Calça alfaiataria.webp", affiliateUrl:"https://s.shopee.com.br/5AtO9D9cJi", style:"Social", category:"Alfaiataria", description:"Calça social de corte reto.", badge:"", featured:false, demo:true },
   // procure: "blazer slim masculino preto"
-  { id:114, name:"Blazer + Calça Slim", price:181.90, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/8fTGJvOckQ", style:"Social", category:"Blazers", description:"Blazer e Calça de corte slim.", badge:"", featured:false, demo:true },
+  { id:114, name:"Blazer + Calça Slim", price:181.90, oldPrice:null, image:"Blazer.webp", affiliateUrl:"https://s.shopee.com.br/8fTGJvOckQ", style:"Social", category:"Blazers", description:"Blazer e Calça de corte slim.", badge:"", featured:false, demo:true },
   // procure: "sapato social masculino preto"
-  { id:115, name:"Sapato Social Masculino", price:42.90, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/qkOzeT97U", style:"Social", category:"Sapatos", description:"Sapato social clássico.", badge:"", featured:false, demo:true },
+  { id:115, name:"Sapato Social Masculino", price:42.90, oldPrice:null, image:"sapato social.webp", affiliateUrl:"https://s.shopee.com.br/qkOzeT97U", style:"Social", category:"Sapatos", description:"Sapato social clássico.", badge:"", featured:false, demo:true },
   // procure: "mocassim masculino marrom"
-  { id:116, name:"Sapato Mocassim Loafer", price:113.99, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/60SV9IjVVc", style:"Social", category:"Sapatos", description:"Mocassim para look social casual.", badge:"", featured:false, demo:true },
+  { id:116, name:"Sapato Mocassim Loafer", price:113.99, oldPrice:null, image:"mocassins.webp", affiliateUrl:"https://s.shopee.com.br/60SV9IjVVc", style:"Social", category:"Sapatos", description:"Mocassim para look social casual.", badge:"", featured:false, demo:true },
   // procure: "cinto social masculino preto"
-  { id:117, name:"Cinto Social", price:18.99, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/BUiCl1Gqu", style:"Social", category:"Acessórios", description:"Cinto liso com fivela clássica.", badge:"", featured:false, demo:true },
+  { id:117, name:"Cinto Social", price:18.99, oldPrice:null, image:"cinto.webp", affiliateUrl:"https://s.shopee.com.br/BUiCl1Gqu", style:"Social", category:"Acessórios", description:"Cinto liso com fivela clássica.", badge:"", featured:false, demo:true },
   // procure: "gravata slim azul marinho"
-  { id:118, name:"Gravata Slim", price:26.90, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/6L5LYE5Du7", style:"Social", category:"Acessórios", description:"Gravata slim listrada.", badge:"", featured:false, demo:true },
+  { id:118, name:"Gravata Slim", price:26.90, oldPrice:null, image:"gravata.webp", affiliateUrl:"https://s.shopee.com.br/6L5LYE5Du7", style:"Social", category:"Acessórios", description:"Gravata slim listrada.", badge:"", featured:false, demo:true },
   // procure: "relógio social masculino prata"
-  { id:119, name:"Relógio Com Pulseira de Couro", price:48.00, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/8pmgWxIsAT", style:"Social", category:"Acessórios", description:"Relógio de pulso clássico.", badge:"", featured:false, demo:true }
+  { id:119, name:"Relógio Com Pulseira de Couro", price:48.00, oldPrice:null, image:"br-11134207-820ln-mlcn0bttdczqf7.webp", affiliateUrl:"https://s.shopee.com.br/8pmgWxIsAT", style:"Social", category:"Acessórios", description:"Relógio de pulso clássico.", badge:"", featured:false, demo:true }
 
 );
