@@ -50,7 +50,7 @@ PRODUCTS.push(
   // procure: "camisa social azul claro masculina"
   { id:111, name:"Camisa Social", price:43.90, oldPrice:null, image:"outra social.webp", affiliateUrl:"https://s.shopee.com.br/1BNFNkaXYz", style:"Social", category:"Camisas", description:"Camisa social de manga longa.", badge:"", featured:false, demo:true },
   // procure: "calça social alfaiataria masculina preta"
-  { id:112, name:"Calça Alfaiataria Preta", price:78.89, oldPrice:null, image:"Calça alfaiataria.webp", affiliateUrl:"https://s.shopee.com.br/5AtO9D9cJi", style:"Social", category:"Alfaiataria", description:"Calça social de corte reto.", badge:"", featured:false, demo:true },
+  { id:112, name:"Calça Alfaiataria", price:78.89, oldPrice:null, image:"Calça alfaiataria.webp", affiliateUrl:"https://s.shopee.com.br/5AtO9D9cJi", style:"Social", category:"Alfaiataria", description:"Calça social de corte reto.", badge:"", featured:false, demo:true },
   // procure: "blazer slim masculino preto"
   { id:114, name:"Blazer + Calça Slim", price:181.90, oldPrice:null, image:"Blazer.webp", affiliateUrl:"https://s.shopee.com.br/8fTGJvOckQ", style:"Social", category:"Blazers", description:"Blazer e Calça de corte slim.", badge:"", featured:false, demo:true },
   // procure: "sapato social masculino preto"
