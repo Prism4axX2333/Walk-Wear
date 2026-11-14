@@ -21,7 +21,7 @@ const PRODUCTS = [
   { id:11, name:"Boné Aba Reta New York",       price:19.99,  oldPrice:null,  image:"BoneReta.webp", affiliateUrl:"https://s.shopee.com.br/20wEBwWweU", category:"Acessórios",description:"Boné ajustável de aba Reta.",                          badge:"",       featured:true,  demo:true },
   { id:12, name:"Corrente Ice Cravejada",          price:16.99,  oldPrice:null,  image:"Ice.webp", affiliateUrl:"https://s.shopee.com.br/9pf5W6rBFl", category:"Acessórios",description:"Corrente em elos grossos, acabamento Cravejado.",        badge:"Novo",   featured:false, demo:true },
   { id:13, name:"Calça Jeans Baggy Wide Leg", price:59.00, oldPrice:null, image:"IMG_2546.jpeg", affiliateUrl:"https://s.shopee.com.br/6q1SIpD4xg", category:"Calças", description:"Jeans baggy cinza lavado, perna larga.", badge:"Destaque", featured:false },
-  { id:14, name:"Calça Wide Leg Estampada", price:49.99, oldPrice:null, image:"", affiliateUrl:"https://s.shopee.com.br/7KyT8bSXMF", category:"Calças", description:"Calça wide leg estampada estilosa.", badge:"Novo",featured:false }
+  { id:14, name:"Calça Wide Leg Estampada", price:49.99, oldPrice:null, image:"Calça wide estampada.jpeg", affiliateUrl:"https://s.shopee.com.br/7KyT8bSXMF", category:"Calças", description:"Calça wide leg estampada estilosa.", badge:"Novo",featured:false }
 ];
 PRODUCTS.push(
 
