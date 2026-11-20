@@ -57,7 +57,7 @@ PRODUCTS.push(
   // procure: "sapato social masculino preto"
   { id:115, name:"Sapato Social Masculino", price:42.90, oldPrice:null, image:"sapato social.webp", affiliateUrl:"https://s.shopee.com.br/qkOzeT97U", style:"Social", category:"Sapatos", description:"Sapato social clássico.", badge:"", featured:false, demo:true },
   // procure: "mocassim masculino marrom"
-  { id:116, name:"Sapato Mocassim Loafer", price:113.99, oldPrice:null, image:"mocassins.webp", affiliateUrl:"https://s.shopee.com.br/60SV9IjVVc", style:"Social", category:"Sapatos", description:"Mocassim para look social casual.", badge:"", featured:false, demo:true },
+  { id:116, name:"Sapato Mocassim Loafer", price:93.91, oldPrice:113.99, image:"mocassins.webp", affiliateUrl:"https://s.shopee.com.br/60SV9IjVVc", style:"Social", category:"Sapatos", description:"Mocassim para look social casual.", badge:"", featured:false, demo:true },
   // procure: "cinto social masculino preto"
   { id:117, name:"Cinto Social", price:18.99, oldPrice:null, image:"cinto.webp", affiliateUrl:"https://s.shopee.com.br/BUiCl1Gqu", style:"Social", category:"Acessórios", description:"Cinto liso com fivela clássica.", badge:"", featured:false, demo:true },
   // procure: "gravata slim azul marinho"
